@@ -1,0 +1,115 @@
+body{
+	background-color: #cc3300;
+	margin: 0;
+	color: white;
+	font-family: Verdana;
+}
+
+.container{
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+}
+	
+	/*table container*/
+
+
+.table-container{
+	width: 100%;
+}
+.table-container td{
+	vertical-align: top;
+	padding: 15px;
+}
+
+
+
+	/*title*/
+
+
+.title{
+	background-color: #e6b800;
+	color: white;
+	display: inline-block;
+	padding: 10px 20px;
+	margin: 0;
+	border-radius: 3px;
+	min-width: 250px;
+	text-align: center;
+}
+
+hr{
+	margin: 0;
+	border: solid 1px #e6b800; 
+}
+
+
+
+
+/*profile*/
+
+
+.profile{
+	width: 50%;
+}
+
+.profile img {
+	margin-top: 15px;
+	width: 175px;
+	float: left;
+	margin-right: 15px;
+	border-radius: 5px;
+
+
+
+}
+
+
+/*skill*/
+
+.skill .content{
+	margin-top: 15px;
+	background-color: white;
+	color:#000000;
+	padding: 10px;
+	border-radius: 7px; 
+}
+.skill ul{
+	margin: 0;
+	list-style: none;
+}
+
+.skill li{
+padding-top: 10px;
+padding-bottom: 10px;
+border-bottom: solid 1px #f1f1f1 ;
+}
+
+.skill .level{
+	
+	margin-top: 10px;
+	background-color: #e6b800;
+	color: white;
+	padding: 5px;
+	text-align: center;
+}
+
+.table{
+	margin-top: 15px;
+	
+
+}
+.table th{
+	background-color: #e6b800; 
+	padding: 10px 15px;	
+	margin-top: 15px;
+}
+.table td{
+	color: #000000;
+	padding: 10px 15px;
+
+}
+.table tr{
+	background-color: white;
+}
